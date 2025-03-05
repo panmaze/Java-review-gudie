@@ -21,7 +21,7 @@ Android开发交流QQ群：**930254941**  （备注一下GitHub，免得被认�
 >
 >>平常很忙，或者直接加小夕小姐姐微信领取就好了，免费获取的！
 
-![](https://upload-images.jianshu.io/upload_images/11474088-d4fa503624f05687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ## Java概述
 

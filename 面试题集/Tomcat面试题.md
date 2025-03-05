@@ -1,5 +1,5 @@
 
-![](https://upload-images.jianshu.io/upload_images/11474088-d4fa503624f05687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ## Tomcat是什么？
 

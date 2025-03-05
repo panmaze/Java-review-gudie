@@ -1,11 +1,11 @@
 
-![](https://upload-images.jianshu.io/upload_images/11474088-d4fa503624f05687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ------
 
 ## 前言
 
-**来分享一下面试必备的Spring Cloud问题解析！**用XMind画了一张导图记录**Spring Cloud**的学习笔记和一些面试解析（源文件对部分节点有详细备注和参考资料，**欢迎关注我的公众号：以Java架构赢天下 后台发送【导图】拿下载链接，已经完善更新）：****
+
 
 
 
@@ -34,7 +34,7 @@
 4. Dubbo 提供了各种 Filter，对于上述中“⽆”的要素，可以通过扩展 Filter 来完善。
 5. dubbo的开发难度较⼤，原因是dubbo的jar包依赖问题很多⼤型⼯程⽆法解决。
 
-d8f6598a96fd4bfcb418aeebe2edd0c0)
+
 
 
 
