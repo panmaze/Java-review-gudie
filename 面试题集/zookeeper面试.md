@@ -1,25 +1,3 @@
-# Contanct Me
-
-如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上QQ群领取
-
->本群由我创立，目前已将群主权限交由合作方便于进行日常管理，介意的朋友们在GitHub上看最新版就好了
->
->> 这份笔记资料是会免费提供的，特地向你们保证…毕竟还是要恰饭的嘛…
-
-祝愿每一位有追求的Java开发同胞都能进大厂拿高薪！
-
-## QQ群
-
-Java架构交流QQ群：**930254941**  （备注一下GitHub，免得被认成打无良广告的）
-
-快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=Xu0ju5PW)
-
-![](https://upload-images.jianshu.io/upload_images/11474088-f15f3310f6b7610f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
->PS：
->
->>平常很忙，找小夕小姐姐领取就好了，免费获取的！
 
 ![](https://upload-images.jianshu.io/upload_images/11474088-d4fa503624f05687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -191,8 +169,7 @@ Zookeeper机制的特点：
 7、当一个客户端**连接到一个新的服务器上时，watch将会被以任意会话事件触发。当**与一个服务器失去连接的时候，是无法接收到watch的。而当client**重新连接时，如果需要的话，所有先前注册过的watch，都会被重新注册。通常这是完全透明的。只有在一个特殊情况下，**watch可能会丢失：对于一个未创建的znode的exist watch，如果在客户端断开连接期间被创建了，并且随后在客户端连接上之前又删除了，这种情况下，这个watch事件可能会被丢失。
 8、Watch是轻量级的，其实就是本地JVM的**Callback，服务器端只是存了是否有设置了Watcher的布尔类型
 
-## 微信公众号
 
-**码农清风**
 
-![](https://upload-images.jianshu.io/upload_images/11474088-febaefa23584b47f.gif?imageMogr2/auto-orient/strip)
+
+

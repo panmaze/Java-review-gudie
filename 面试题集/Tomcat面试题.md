@@ -1,25 +1,3 @@
-# Contanct Me
-
-如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上QQ群领取
-
->本群由我创立，目前已将群主权限交由合作方便于进行日常管理，介意的朋友们在GitHub上看最新版就好了
->
->> 这份笔记资料是会免费提供的，特地向你们保证…毕竟还是要恰饭的嘛…
-
-祝愿每一位有追求的Java开发同胞都能进大厂拿高薪！
-
-## QQ群
-
-Java架构交流QQ群：**930254941**  （备注一下GitHub，免得被认成打无良广告的）
-
-快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=Xu0ju5PW)
-
-![](https://upload-images.jianshu.io/upload_images/11474088-f15f3310f6b7610f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
->PS：
->
->>平常很忙，找小夕小姐姐领取就好了，免费获取的！
 
 ![](https://upload-images.jianshu.io/upload_images/11474088-d4fa503624f05687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -243,8 +221,7 @@ Pipeline的处理流程图如下（图D）：
 
 至此，我们已经对Tomcat的整体架构有了大致的了解，从图A、B、C、D可以看出来每一个组件的基本要素和作用。我们在脑海里应该有一个大概的轮廓了！如果你面试的时候，让你简单的聊一下Tomcat，上面的内容你能脱口而出吗？当你能够脱口而出的时候，面试官一定会对你刮目相看的！
 
-## 微信公众号
 
-**码农清风**
 
-![](https://upload-images.jianshu.io/upload_images/11474088-febaefa23584b47f.gif?imageMogr2/auto-orient/strip)
+
+

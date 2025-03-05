@@ -1,25 +1,3 @@
-# Contanct Me
-
-如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上QQ群领取
-
->本群由我创立，目前已将群主权限交由合作方便于进行日常管理，介意的朋友们在GitHub上看最新版就好了
->
->> 这份笔记资料是会免费提供的，特地向你们保证…毕竟还是要恰饭的嘛…
-
-祝愿每一位有追求的Java开发同胞都能进大厂拿高薪！
-
-## QQ群
-
-Java架构交流QQ群：**930254941**  （备注一下GitHub，免得被认成打无良广告的）
-
-快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=Xu0ju5PW)
-
-![](https://upload-images.jianshu.io/upload_images/11474088-f15f3310f6b7610f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
->PS：
->
->>平常很忙，找小夕小姐姐领取就好了，免费获取的！
 
 ![](https://upload-images.jianshu.io/upload_images/11474088-d4fa503624f05687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -289,8 +267,7 @@ Dubbox 是继 Dubbo 停止维护后，当当网基于 Dubbo 做的一个扩展�
 
 使用Dubbo构建的微服务架构就像组装电脑，各环节我们的选择自由度很高，但是最终结果很有可能因为一条内存质量不行就点不亮了，总是让人不怎么放心，但是如果你是一名高手，那这些都不是问题；而Spring Cloud就像品牌机，在Spring Source的整合下，做了大量的兼容性测试，保证了机器拥有更高的稳定性，但是如果要在使用非原装组件外的东西，就需要对其基础有足够的了解。
 
-## 微信公众号
 
-**码农清风**
 
-![](https://upload-images.jianshu.io/upload_images/11474088-febaefa23584b47f.gif?imageMogr2/auto-orient/strip)
+
+
